@@ -1,0 +1,36 @@
+.form {
+  align-items: center;
+  background: white;
+  padding: 1em;
+  border-radius: 7px;
+  border: 0cqmin;
+  max-width: 50rem;
+  margin: 2rem auto;
+}
+
+.form label {
+    margin-bottom: 0.25rem;
+  display: block;
+  color: #000;
+  font-weight: bold;
+}
+
+.form input {
+    padding: 0.5rem;
+    padding-right: 2px;
+  width: 100%;
+  font-size: 1rem;
+  border-radius: 0.25rem;
+  color: black
+}
+
+.form button {
+  background: purple;
+  color: white;
+  padding: 0.5rem 0.7rem;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: purple;
+}
